@@ -27,4 +27,4 @@ ____
 - обработке данных по ОКН
 ____
 Для отображения конечного результата работы прикладываем ***ссылку на нашу веб-карту***:
-*file:///C:/Users/yakow/Downloads/Telegram%20Desktop/index.html*
+*(https://trusoffcyrille.github.io/Folium-map-Tula-OKN-/)*
